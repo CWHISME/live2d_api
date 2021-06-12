@@ -6,12 +6,18 @@
     ],
     "models": [
         [
-            "HyperdimensionNeptunia/blanc_swimwear",
-            "HyperdimensionNeptunia/blanc_normal"
+            "HyperdimensionNeptunia/blanc_swimwear"
         ],
+        "GirlsFrontline/hk416_3401",
+        "snow_miku",
+        [
+            "GirlsFrontline/kp31_310",
+            "GirlsFrontline/kp31_3101"
+        ],
+        "GirlsFrontline/k2_3301",
+        "GirlsFrontline/fn57_2203",
         "HyperdimensionNeptunia/histoire",
         "Bronya",
-        "snow_miku",
         [
             "ShizukuTalk/shizuku-48",
             "ShizukuTalk/shizuku-pajama"
@@ -31,9 +37,13 @@
     ],
     "messages": [
         "这是 Blanc Swimwear ~  来自超次元游戏：海王星 ~",
+        "HK416 ~",
+        "雪初音 ~",
+        "KP31 ~",
+        "K2 ~",
+        "FN57 ~",
         "这是 Histoire ~ 来自超次元游戏：海王星 ~",
         "布洛妮娅 ~~",
-        "雪初音 ~",
         "Shizuku Talk ！这里是 Shizuku ~",
         "Nep! Nep! 这是涅普姬雅，来自超次元游戏：海王星 ~",
         "Nep! Nep! 这是涅普缇努，来自超次元游戏：海王星 ~",
