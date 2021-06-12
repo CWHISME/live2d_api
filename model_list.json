@@ -1,35 +1,42 @@
 {
+    "defaultModelInfo": [
+        0,
+        53,
+        "HyperdimensionNeptunia/blanc_swimwear"
+    ],
     "models": [
+        [
+            "HyperdimensionNeptunia/blanc_swimwear",
+            "HyperdimensionNeptunia/blanc_normal"
+        ],
+        "HyperdimensionNeptunia/histoire",
+        "Bronya",
+        "snow_miku",
         [
             "ShizukuTalk/shizuku-48",
             "ShizukuTalk/shizuku-pajama"
         ],
         [
+            "HyperdimensionNeptunia/nepgear",
+            "HyperdimensionNeptunia/nepgear_extra",
+            "HyperdimensionNeptunia/nepgearswim"
+        ],
+        [
             "HyperdimensionNeptunia/neptune_classic",
             "HyperdimensionNeptunia/nepnep",
             "HyperdimensionNeptunia/neptune_santa",
-            "HyperdimensionNeptunia/nepmaid",
-            "HyperdimensionNeptunia/nepswim",
-            "HyperdimensionNeptunia/noir_classic",
-            "HyperdimensionNeptunia/noir",
-            "HyperdimensionNeptunia/noir_santa",
-            "HyperdimensionNeptunia/noireswim",
-            "HyperdimensionNeptunia/blanc_classic",
-            "HyperdimensionNeptunia/blanc_normal",
-            "HyperdimensionNeptunia/blanc_swimwear",
-            "HyperdimensionNeptunia/vert_classic",
-            "HyperdimensionNeptunia/vert_normal",
-            "HyperdimensionNeptunia/vert_swimwear",
-            "HyperdimensionNeptunia/nepgear",
-            "HyperdimensionNeptunia/nepgear_extra",
-            "HyperdimensionNeptunia/nepgearswim",
-            "HyperdimensionNeptunia/histoire",
-            "HyperdimensionNeptunia/histoirenohover"
+            "HyperdimensionNeptunia/nepmaid"
         ],
-        "KantaiCollection/murakumo"
+        "uu"
     ],
     "messages": [
+        "这是 Blanc Swimwear ~  来自超次元游戏：海王星 ~",
+        "这是 Histoire ~ 来自超次元游戏：海王星 ~",
+        "布洛妮娅 ~~",
+        "雪初音 ~",
         "Shizuku Talk ！这里是 Shizuku ~",
-        "Nep! Nep! 超次元游戏：海王星 系列",
+        "Nep! Nep! 这是涅普姬雅，来自超次元游戏：海王星 ~",
+        "Nep! Nep! 这是涅普缇努，来自超次元游戏：海王星 ~",
+        "这个其实我也不认识 ~"
     ]
 }
