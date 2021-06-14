@@ -20,6 +20,7 @@
         ],
         [
             "GirlsFrontline/hk416_3401",
+            "GirlsFrontline/hk416_3401_destroy",
             "GirlsFrontline/hk416_805"
         ],
         [
@@ -45,7 +46,19 @@
             "HyperdimensionNeptunia/nepmaid"
         ],
         "HyperdimensionNeptunia/histoire",
-        "HorcruxCollege/11110"
+        "HorcruxCollege/11110",
+        [
+            "uu",
+            "HonkaiImpact/Mei",
+            "Sagiri",
+            "aoba",
+            "player_unit_00004",
+            "GirlsFrontline/sat8_2601",
+            "GirlsFrontline/generalliu_5101",
+            "GirlsFrontline/akalfa_4601",
+            "HorcruxCollege/11310",
+            "HorcruxCollege/11810"
+        ]
     ],
     "messages": [
         "这是 Blanc Swimwear ~  来自超次元游戏：海王星 ~",
@@ -60,17 +73,10 @@
         "Nep! Nep! 这是涅普姬雅，来自超次元游戏：海王星 ~",
         "Nep! Nep! 这是涅普缇努，来自超次元游戏：海王星 ~",
         "这是 Histoire ~ 来自超次元游戏：海王星 ~",
-        "这个其实我也不认识 ~"
+        "这个其实我也不认识 ~",
+        "这是其它的一堆模型，如果你想看的话，就看吧"
     ],
     "backup": [
-        "uu",
-        "HonkaiImpact/Mei",
-        "Sagiri",
-        "aoba",
-        "player_unit_00004",
-        "GirlsFrontline/sat8_2601",
-        "GirlsFrontline/generalliu_5101",
-        "HorcruxCollege/11310",
-        "HorcruxCollege/11810"
+
     ]
 }
