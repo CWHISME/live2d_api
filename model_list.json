@@ -4,9 +4,19 @@
         53,
         "HyperdimensionNeptunia/blanc_swimwear"
     ],
+    "sizeZoomList": [
+        300,400,500,600,700,800,900,1000
+    ],
     "models": [
         [
-            "HyperdimensionNeptunia/blanc_swimwear"
+            "HyperdimensionNeptunia/blanc_swimwear",
+            "HyperdimensionNeptunia/blanc_normal"
+        ],
+        "HorcruxCollege/12380",
+        [
+            "HonkaiImpact/Bronya",
+            "HonkaiImpact/Nina",
+            "HonkaiImpact/BYC"
         ],
         [
             "GirlsFrontline/hk416_3401",
@@ -19,7 +29,6 @@
         "GirlsFrontline/fn57_2203",
         "GirlsFrontline/k2_3301",
         "snow_miku",
-        "Bronya",
         [
             "ShizukuTalk/shizuku-48",
             "ShizukuTalk/shizuku-pajama"
@@ -36,16 +45,17 @@
             "HyperdimensionNeptunia/nepmaid"
         ],
         "HyperdimensionNeptunia/histoire",
-        "uu"
+        "HorcruxCollege/11110"
     ],
     "messages": [
         "这是 Blanc Swimwear ~  来自超次元游戏：海王星 ~",
+        "12380 ~",
+        "这里是崩坏学院 布洛妮娅 ~~",
         "HK416 ~",
         "KP31 ~",
         "K2 ~",
         "FN57 ~",
         "雪初音 ~",
-        "布洛妮娅 ~~",
         "Shizuku Talk ！这里是 Shizuku ~",
         "Nep! Nep! 这是涅普姬雅，来自超次元游戏：海王星 ~",
         "Nep! Nep! 这是涅普缇努，来自超次元游戏：海王星 ~",
@@ -53,9 +63,14 @@
         "这个其实我也不认识 ~"
     ],
     "backup": [
-        "Mei",
+        "uu",
+        "HonkaiImpact/Mei",
         "Sagiri",
         "aoba",
-        "GirlsFrontline/sat8_2601"
+        "player_unit_00004",
+        "GirlsFrontline/sat8_2601",
+        "GirlsFrontline/generalliu_5101",
+        "HorcruxCollege/11310",
+        "HorcruxCollege/11810"
     ]
 }
