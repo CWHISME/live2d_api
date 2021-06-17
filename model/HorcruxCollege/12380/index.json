@@ -8,12 +8,24 @@
 		"center_x": 0,
 		"center_y": -0.3
 	},
-	"hit_areas_custom":{
-        "head_x":[-0.3, 0.8],
-        "head_y":[-0.04, 0.43],
-        "body_x":[-0.4, 0.29],
-        "body_y":[0.17, -0.38]
-    },
+	"hit_areas_custom": {
+		"head_x": [
+			-0.7,
+			0.65
+		],
+		"head_y": [
+			2025,
+			0.22
+		],
+		"body_x": [
+			-0.14,
+			0.029
+		],
+		"body_y": [
+			0.6,
+			-1.2
+		]
+	},
 	"config": {
 		"scale": 1.2,
 		"posX": -120,
@@ -25,36 +37,41 @@
 		"mirrorX": false
 	},
 	"motions": {
-		"sleepy":[{
-			"file": "motions/idle.mtn"
-		}],
+		"sleepy": [
+			{
+				"file": "motions/idle.mtn"
+			}
+		],
 		"idle": [
 			{
 				"file": "motions/idle.mtn"
-			},{
+			},
+			{
 				"file": "motions/stay_01.mtn"
 			}
 		],
 		"flick_head": [
 			{
-				"file": "motions/touch_99.mtn"
-
-			},{
-				"file": "motions/touch_tail.mtn"
-
+				"file": "motions/touch_tail.mtn",
+				"sound": "sounds/22320_fight.ogg"
 			}
 		],
 		"tap_body": [
 			{
-				"file": "motions/touch_01_2.mtn"
-
-			},{
-				"file": "motions/touch_gift.mtn"
-
+				"file": "motions/touch_01_2.mtn",
+				"sound": "sounds/12320.ogg"
 			},
 			{
-				"file": "motions/touch_01_1.mtn"
-
+				"file": "motions/touch_gift.mtn",
+				"sound": "sounds/12380.ogg"
+			},
+			{
+				"file": "motions/touch_01_1.mtn",
+				"sound": "sounds/12320.ogg"
+			},
+			{
+				"file": "motions/touch_99.mtn",
+				"sound": "sounds/22320_fight.ogg"
 			}
 		]
 	}

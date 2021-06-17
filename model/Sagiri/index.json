@@ -11,10 +11,17 @@
         "center_y": -0.9,
         "width": 2
     },
+    "hit_areas_custom": {
+        "body_x": [-0.51, 0.13],
+        "body_y": [-0.01, -0.42]
+    },
     "motions": {
-        "tap": [
+        "tap_body": [
             {
                 "file": "motions/tap/c.mtn"
+            },
+            {
+                "file": "motions/action/001.mtn"
             }
         ],
         "idle": [
