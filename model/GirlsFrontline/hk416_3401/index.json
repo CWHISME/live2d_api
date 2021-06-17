@@ -9,20 +9,23 @@
         "center_y": -0.35
     },
 	"motions":{
-		"":[
-			{"file":"motions/login.mtn"},
-			{"file":"motions/shake.mtn"},
+		"flick_head": [
+			{"file":"motions/shake.mtn"}
+		],
+		"tap_body":[
 			{"file":"motions/touch_1.mtn"},
 			{"file":"motions/touch_2.mtn"},
 			{"file":"motions/touch_3.mtn"},
 			{"file":"motions/touch_4.mtn"},
 			{"file":"motions/touch_5.mtn"},
-			{"file":"motions/wait_1.mtn"},
-			{"file":"motions/wait_2.mtn"},
 			{"file":"motions/wedding.mtn"},
-			{"file":"motions/wedding_touch.mtn"}
+			{"file":"motions/wedding_touch.mtn"},
+			{"file":"motions/416ChildrensDay.mtn"}
 		],
 		"idle":[
+			{"file":"motions/login.mtn"},
+			{"file":"motions/wait_1.mtn"},
+			{"file":"motions/wait_2.mtn"},
 			{"file":"motions/daiji_idle_01.mtn"}
 		]
 	},

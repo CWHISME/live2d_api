@@ -15,63 +15,39 @@
         "textPosY":280,
         "mirrorX":false
     },
+	"hit_areas_custom":{
+        "body_x":[-0.6, 0.6],
+        "body_y":[0.1, -0.2]
+    },
     "motions":{
 		"idle":[
 			{
-				"file":"motions/idle.mtn",
-				"fade_in":0,
-				"fade_out":0
+				"file":"motions/idle.mtn"
 			}
 		],
 		"stay":[
 			{
-				"file":"motions/stay_01.mtn",
-				"fade_in":0,
-				"fade_out":0
+				"file":"motions/stay_01.mtn"
 			}
 		],
-		"set":[
+		"tap_body":[
 			{
-				"file":"motions/setting_01.mtn",
-				"fade_in":0,
-				"fade_out":0
-			}
-		],
-		"touch_01":[
-			{
-				"file":"motions/touch_01_1.mtn",
-				"fade_in":0,
-				"fade_out":0
-			}
-		],
-		"touch_02":[
-			{
-				"file":"motions/touch_01_2.mtn",
-				"fade_in":0,
-				"fade_out":0
-			}
-		],
-		"gift_01":[
-			{
-				"file":"motions/gift_01.mtn",
-				"fade_in":0,
-				"fade_out":0
+				"file":"motions/setting_01.mtn"
+			},{
+				"file":"motions/touch_01_1.mtn"
+			},	{
+				"file":"motions/touch_01_2.mtn"
+			},{
+				"file":"motions/gift_01.mtn"
+			},{
+				"file":"motions/touch_99.mtn"
 			}
 		],
 		"touch_hand":[
 			{
 				"file":"motions/touch_hand.mtn",
 				"sound":"11110_01",
-				"fade_in":0,
-				"fade_out":0,
 				"say_text":"虽然，伊文捷琳还没完全独当一面，但班长的温柔给我了力量"
-			}
-		],
-		"touch_99":[
-			{
-				"file":"motions/touch_99.mtn",
-				"fade_in":0,
-				"fade_out":0
 			}
 		]
 	},

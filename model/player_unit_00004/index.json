@@ -3,13 +3,23 @@
   "textures": [
     "model.2048/texture_00.png"
   ],
+  "hit_areas_custom": {
+		"body_x": [
+		  -0.6,
+		  0.6
+		],
+		"body_y": [
+		  0.1,
+		  -0.2
+		]
+	  },
   "motions": {
 	 "idle": [
 	   {
 	   "file": "motions/idle_00.mtn"
 	   }
 	 ],
-    "tap": [
+    "tap_body": [
       {
         "file": "motions/mtn_00.mtn"
       },

@@ -19,47 +19,39 @@
         "textPosY":580,
         "mirrorX":false
     },
+	"hit_areas_custom": {
+		"body_x": [
+		  -0.6,
+		  0.6
+		],
+		"body_y": [
+		  0.1,
+		  -0.2
+		]
+	  },
     "motions":{
 		"idle":[
 			{
-				"file":"motions/idle.mtn",
-				"fade_in":0,
-				"fade_out":0
+				"file":"motions/idle.mtn"
 			}
 		],
 		"stay":[
 			{
-				"file":"motions/stay_01.mtn",
-				"fade_in":0,
-				"fade_out":0
+				"file":"motions/stay_01.mtn"
 			}
 		],
-		"set":[
+		"tap_body":[
 			{
-				"file":"motions/setting_01.mtn",
-				"fade_in":0,
-				"fade_out":0
-			}
-		],
-		"touch_01":[
-			{
-				"file":"motions/touch_01_1.mtn",
-				"fade_in":0,
-				"fade_out":0
-			}
-		],
-		"touch_02":[
-			{
-				"file":"motions/touch_01_2.mtn",
-				"fade_in":0,
-				"fade_out":0
-			}
-		],
-		"gift_01":[
-			{
-				"file":"motions/gift_01.mtn",
-				"fade_in":0,
-				"fade_out":0
+				"file":"motions/setting_01.mtn"
+			},{
+				"file":"motions/touch_01_1.mtn"
+			},{
+				"file":"motions/touch_01_2.mtn"
+			},{
+				"file":"motions/gift_01.mtn"
+			},{
+				"file":"motions/touch_99.mtn"
+			},{				"file":"motions/touch_Bouquet.mtn"
 			}
 		],
 		"touch_Bouquet":[
@@ -78,13 +70,6 @@
 				"say_text":"但是，还是最感谢、最喜欢一直陪伴在我身边的你",
 				"sound":"11810_002",
 				"say_text_show_time":5
-			}
-		],
-		"touch_99":[
-			{
-				"file":"motions/touch_99.mtn",
-				"fade_in":0,
-				"fade_out":0
 			}
 		]
 	},

@@ -10,20 +10,23 @@
     },
 	"motions":{
 		"idle":[
-			{"file":"motions/idle.mtn"}
-		],
-		"":[
+			{"file":"motions/idle.mtn"},
 			{"file":"motions/login.mtn"},
-			{"file":"motions/shake.mtn"},
+			{"file":"motions/wait_2.mtn"},
+			{"file":"motions/wait_1.mtn"}
+
+		],
+		"flick_head": [
+			{"file":"motions/shake.mtn"}
+		],
+		"tap_body":[
 			{"file":"motions/wedding.mtn"},
 			{"file":"motions/wedding_touch.mtn"},
 			{"file":"motions/touch_1.mtn"},
 			{"file":"motions/touch_2.mtn"},
 			{"file":"motions/touch_3.mtn"},
 			{"file":"motions/touch_4.mtn"},
-			{"file":"motions/touch_5.mtn"},
-			{"file":"motions/wait_2.mtn"},
-			{"file":"motions/wait_1.mtn"}
+			{"file":"motions/touch_5.mtn"}
 		]
 	},
 	"hit_areas":[
