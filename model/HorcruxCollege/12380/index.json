@@ -10,20 +10,20 @@
 	},
 	"hit_areas_custom": {
 		"head_x": [
-			-0.7,
-			0.65
+			-0.33,
+			0.7
 		],
 		"head_y": [
-			2025,
-			0.22
+			-0.02,
+			0.42
 		],
 		"body_x": [
-			-0.14,
-			0.029
+			-0.39,
+			0.27
 		],
 		"body_y": [
-			0.6,
-			-1.2
+			0.10,
+			-0.35
 		]
 	},
 	"config": {
@@ -67,7 +67,7 @@
 			},
 			{
 				"file": "motions/touch_01_1.mtn",
-				"sound": "sounds/12320.ogg"
+				"sound": "sounds/12300.ogg"
 			},
 			{
 				"file": "motions/touch_99.mtn",
