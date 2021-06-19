@@ -6,7 +6,7 @@
 	],
 	"layout":{
         "center_x": 0,
-        "center_y": -0.15
+        "center_y": -0.3
     },
 	"motions":{
 		"idle":[
@@ -29,9 +29,22 @@
 			{"file":"motions/touch_5.mtn"}
 		]
 	},
-	"hit_areas":[
-			{"name":"head","id":"D_REF_HEAD"},
-			{"name":"diao","id":"D_REF_DIAO"},
-			{"name":"hand","id":"D_REF_HAND"}
-			]
+	"hit_areas_custom": {
+		"head_x": [
+			-0.33,
+			0.7
+		],
+		"head_y": [
+			-0.02,
+			0.42
+		],
+		"body_x": [
+			-0.39,
+			0.27
+		],
+		"body_y": [
+			0.10,
+			-0.35
+		]
+	}
 }

@@ -10,20 +10,20 @@
     },
 	"motions":{
 		"flick_head": [
-			{"file":"motions/shake.mtn"}
+			{"file":"motions/shake.mtn","sound": "sounds/HK416_0_MOOD2_JP.wav"}
 		],
 		"tap_body":[
-			{"file":"motions/touch_1.mtn"},
-			{"file":"motions/touch_2.mtn"},
-			{"file":"motions/touch_3.mtn"},
-			{"file":"motions/touch_4.mtn"},
-			{"file":"motions/touch_5.mtn"},
-			{"file":"motions/wedding.mtn"},
-			{"file":"motions/wedding_touch.mtn"},
-			{"file":"motions/416ChildrensDay.mtn"}
+			{"file":"motions/touch_1.mtn","sound": "sounds/HK416_0_DIALOGUE1_JP.wav"},
+			{"file":"motions/touch_2.mtn","sound": "sounds/HK416_0_GAIN_JP.wav"},
+			{"file":"motions/touch_3.mtn","sound": "sounds/HK416_0_ACCEPT_JP.wav"},
+			{"file":"motions/touch_4.mtn","sound": "sounds/HK416_0_MOOD1_JP.wav"},
+			{"file":"motions/touch_5.mtn","sound": "sounds/HK416_0_LOWMOOD_JP.wav"},
+			{"file":"motions/wedding.mtn","sound": "sounds/HK416_0_DIALOGUEWEDDING_JP.wav"},
+			{"file":"motions/wedding_touch.mtn","sound": "sounds/HK416_0_MOOD1_JP.wav"},
+			{"file":"motions/416ChildrensDay.mtn"},
+			{"file":"motions/login.mtn","sound":"sounds/HK416_0_APPRECIATE_JP.wav"}
 		],
 		"idle":[
-			{"file":"motions/login.mtn"},
 			{"file":"motions/wait_1.mtn"},
 			{"file":"motions/wait_2.mtn"},
 			{"file":"motions/daiji_idle_01.mtn"}

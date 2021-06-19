@@ -6,7 +6,7 @@
 	],
 	"motions":{
 		"flick_head": [
-			{"file":"motions/shake.mtn"}
+			{"file":"motions/shake.mtn","sound": "../hk416_3401/sounds/HK416_0_MOOD2_JP.wav"}
 		],
 		"tap_body":[
 			{"file":"motions/broken_1.mtn"},
